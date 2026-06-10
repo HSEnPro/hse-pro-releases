@@ -24,10 +24,10 @@
 
 ## 📸 واجهة البرنامج | Screenshots
 
-### 🇸🇦 العربية
+###  العربية
 ![Arabic UI](https://raw.githubusercontent.com/HSEnPro/hse-pro-releases/main/HSEn-ar.png)
 
-### 🌐 English
+###  English
 ![English UI](https://raw.githubusercontent.com/HSEnPro/hse-pro-releases/main/HSEn-en.png)
 
 ---
