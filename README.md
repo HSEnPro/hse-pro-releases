@@ -61,17 +61,29 @@
 
 | # | المرحلة | Phase |
 
+
 | 1 | الاستطلاع السلبي | Passive Recon |
+
 | 2 | الاستطلاع النشط | Active Recon |
+
 | 3 | فحص الثغرات | Vulnerability Scanning |
+
 | 4 | الاستغلال | Exploitation |
+
 | 5 | ما بعد الاستغلال | Post-Exploitation |
+
 | 6 | رفع الصلاحيات | Privilege Escalation |
+
 | 7 | الحركة الجانبية | Lateral Movement |
+
 | 8 | الثبات | Persistence |
+
 | 9 | التهرب من الحماية | Evasion |
+
 | 10 | الهندسة الاجتماعية | Social Engineering |
+
 | 11 | تغطية الأثر | Covering Tracks |
+
 | 12 | كتابة التقرير | Reporting |
 
 ---
