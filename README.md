@@ -60,7 +60,7 @@
 ## 🗂️ مراحل الاختبار | Penetration Testing Phases
 
 | # | المرحلة | Phase |
-|---|---------|-------|
+
 | 1 | الاستطلاع السلبي | Passive Recon |
 | 2 | الاستطلاع النشط | Active Recon |
 | 3 | فحص الثغرات | Vulnerability Scanning |
