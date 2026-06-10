@@ -38,8 +38,8 @@
 **HackSecEnc Pro** is an educational desktop application for learning ethical penetration testing,  
 combining the most popular security tools and commands in a professional Arabic/English interface.
 
-> ⚠️ **للاستخدام التعليمي فقط** — لا تُطبّق هذه التقنيات إلا على أنظمة تملكها أو لديك إذن كتابي باختبارها.  
-> ⚠️ **For educational use only** — apply these techniques only on systems you own or have written permission to test.
+ ⚠️ **للاستخدام التعليمي فقط** — لا تُطبّق هذه التقنيات إلا على أنظمة تملكها أو لديك إذن كتابي باختبارها.  
+ ⚠️ **For educational use only** — apply these techniques only on systems you own or have written permission to test.
 
 </div>
 
