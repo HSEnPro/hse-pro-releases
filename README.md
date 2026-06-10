@@ -38,8 +38,8 @@
 **HackSecEnc Pro** is an educational desktop application for learning ethical penetration testing,  
 combining the most popular security tools and commands in a professional Arabic/English interface.
 
- ⚠️ **للاستخدام التعليمي فقط** — لا تُطبّق هذه التقنيات إلا على أنظمة تملكها أو لديك إذن كتابي باختبارها.  
- ⚠️ **For educational use only** — apply these techniques only on systems you own or have written permission to test.
+⚠️ **للاستخدام التعليمي فقط** — لا تُطبّق هذه التقنيات إلا على أنظمة تملكها أو لديك إذن كتابي باختبارها.  
+⚠️ **For educational use only** — apply these techniques only on systems you own or have written permission to test.
 
 </div>
 
@@ -50,11 +50,19 @@ combining the most popular security tools and commands in a professional Arabic/
 ## المميزات | Features
 
 | العربية | English |
-|---------|---------|
+|:-------:|:-------:|
 | دعم ثنائي اللغة — عربي وإنجليزي كامل | Bilingual support — Full Arabic and English |
-| 12 مرحلة تعليمية من الاستطلاع حتى التقرير | 12 learning phases from recon to reporting |
-| أدوات متخصصة — Wi-Fi، تشفير، كسر كلمات مرور | Specialized tools — Wi-Fi, encryption, cracking |
-| أوامر جاهزة للنسخ مع شرح مفصّل | Ready-to-copy commands with detailed explanation |
+| 25 منفذ وخدمة مع أوامر تفصيلية | 25 ports & services with detailed commands |
+| منهجية اختبار كاملة من إعداد المختبر حتى التقرير | Full methodology from lab setup to reporting |
+| 81 تقنية هجوم جاهزة للنسخ | 81 attack techniques ready to copy |
+| 8 استغلالات شهيرة (CVEs) مع خطوات الكشف | 8 famous CVEs with detection steps |
+| 270 ثنائي GTFOBins مع وظائفها | 270 GTFOBins binaries with functions |
+| 18 Reverse Shell بلغات متعددة | 18 Reverse Shells in multiple languages |
+| 30 نوع هاش مع أوامر كسره | 30 hash types with cracking commands |
+| أدوات OSINT متكاملة للاستطلاع | Integrated OSINT tools for recon |
+| مولّد Reverse Shell و Payloads | Reverse Shell & Payload generator |
+| حاسبة شبكات وباني Hydra | Subnet calculator & Hydra builder |
+| ترميز وفك تشفير فوري | Instant encoding & decoding |
 | تحديث تلقائي عند كل تشغيل | Auto update on every launch |
 | واجهة Hacker Terminal داكنة احترافية | Professional dark Hacker Terminal UI |
 
@@ -68,18 +76,23 @@ combining the most popular security tools and commands in a professional Arabic/
 
 | # | المرحلة | Phase |
 |:-:|:-------:|:-----:|
+| 0 | إعداد المختبر | Lab Setup |
 | 1 | الاستطلاع السلبي | Passive Recon |
 | 2 | الاستطلاع النشط | Active Recon |
 | 3 | فحص الثغرات | Vulnerability Scanning |
-| 4 | الاستغلال | Exploitation |
-| 5 | ما بعد الاستغلال | Post-Exploitation |
-| 6 | رفع الصلاحيات | Privilege Escalation |
-| 7 | الحركة الجانبية | Lateral Movement |
-| 8 | الثبات | Persistence |
-| 9 | التهرب من الحماية | Evasion |
-| 10 | الهندسة الاجتماعية | Social Engineering |
-| 11 | تغطية الأثر | Covering Tracks |
-| 12 | كتابة التقرير | Reporting |
+| 4 | كسر كلمات السر | Password Cracking |
+| 5 | الاستغلال | Exploitation |
+| 6 | ما بعد الاستغلال | Post-Exploitation |
+| 7 | رفع الصلاحيات | Privilege Escalation |
+| 8 | الحركة الجانبية | Lateral Movement |
+| 9 | الثبات | Persistence |
+| 10 | التهرب من الحماية | Evasion |
+| 11 | هجمات الهوية والترحيل | Identity Attacks & Relay |
+| 12 | اختراق الـ APIs | API Hacking |
+| 13 | الأنفاق و Pivoting | Tunneling & Pivoting |
+| 14 | الهندسة الاجتماعية | Social Engineering |
+| 15 | تغطية الأثر | Covering Tracks |
+| 16 | كتابة التقرير | Reporting |
 
 </div>
 
@@ -91,12 +104,12 @@ combining the most popular security tools and commands in a professional Arabic/
 
 | العربية | English |
 |:-------:|:-------:|
-| اختراق Wi-Fi | Wi-Fi Hacking |
-| كسر كلمات المرور | Password Cracking |
-| التشفير وفك التشفير | Encryption & Decryption |
-| فحص الشبكات والمنافذ | Network & Port Scanning |
-| استغلال الخدمات (SMB, RDP, SSH, SQL) | Service Exploitation (SMB, RDP, SSH, SQL) |
-| التشنيف | Sniffing & MITM |
+| Nmap · Metasploit · Hydra · John · Hashcat | Nmap · Metasploit · Hydra · John · Hashcat |
+| Responder · ntlmrelayx · mitm6 | Responder · ntlmrelayx · mitm6 |
+| BloodHound · kerbrute · enum4linux | BloodHound · kerbrute · enum4linux |
+| jwt_tool · KiteRunner · Arjun | jwt_tool · KiteRunner · Arjun |
+| nikto · nuclei · wpscan · searchsploit | nikto · nuclei · wpscan · searchsploit |
+| msfvenom · netcat · socat · chisel | msfvenom · netcat · socat · chisel |
 
 </div>
 
@@ -107,10 +120,11 @@ combining the most popular security tools and commands in a professional Arabic/
 ## التحميل | Download
 
 توجه إلى [أحدث إصدار](https://github.com/HSEnPro/hse-pro-releases/releases/latest) وحمّل الملف  
-
 Go to the [latest release](https://github.com/HSEnPro/hse-pro-releases/releases/latest) and download:
 
+```
 HackSecEnc-Pro-Setup-x.x.x.exe
+```
 
 ## التحديث التلقائي | Auto Update
 
@@ -125,13 +139,13 @@ The app automatically checks for updates on every launch and notifies you when a
 
 ## إخلاء المسؤولية | Disclaimer
 
- ⚠️ هذا البرنامج مخصص **للتعليم فقط**.  
- المطور غير مسؤول عن أي استخدام خارج النطاق التعليمي أو على أنظمة غير مصرّح بها.
+⚠️ هذا البرنامج مخصص **للتعليم فقط**.  
+المطور غير مسؤول عن أي استخدام خارج النطاق التعليمي أو على أنظمة غير مصرّح بها.
 
 ⚠️ This tool is intended **for educational purposes only**.  
- The developer is not responsible for any use outside the educational scope or on unauthorized systems.
+The developer is not responsible for any use outside the educational scope or on unauthorized systems.
 
-
+---
 
 Made with ❤️ by [HSEnPro](https://github.com/HSEnPro)
 
