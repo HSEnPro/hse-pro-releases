@@ -1,3 +1,6 @@
+
+<div align="center">
+  
 # HackSecEnc Pro 🔐
 
 <div align="center">
