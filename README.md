@@ -109,6 +109,8 @@ combining the most popular security tools and commands in a professional Arabic/
 توجه إلى [أحدث إصدار](https://github.com/HSEnPro/hse-pro-releases/releases/latest) وحمّل الملف  
 Go to the [latest release](https://github.com/HSEnPro/hse-pro-releases/releases/latest) and download:
 
+HackSecEnc-Pro-Setup-x.x.x.exe
+
 ## التحديث التلقائي | Auto Update
 
 البرنامج يتحقق من التحديثات تلقائياً عند كل تشغيل ويُخطرك عند توفر نسخة جديدة.  
