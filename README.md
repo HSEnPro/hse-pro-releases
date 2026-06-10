@@ -71,7 +71,7 @@
 توجه إلى [أحدث إصدار](https://github.com/HSEnPro/hse-pro-releases/releases/latest) وحمّل ملف:
 
 ```
-HackSecEnc-Pro-Setup-x.x.x.exe
+
 ```
 
 ---
