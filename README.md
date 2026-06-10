@@ -14,36 +14,50 @@
 
 ---
 
-## عن البرنامج | About
-
-**HackSecEnc Pro** هو تطبيق سطح مكتب متكامل لاختبار الاختراق الأخلاقي، يجمع أشهر الأدوات والأوامر الأمنية في واجهة عربية/إنجليزية احترافية وسهلة الاستخدام.
-
-> **للاستخدام القانوني فقط** — تأكد من الحصول على إذن كتابي قبل اختبار أي نظام.
-
----
-
 ## 📸 واجهة البرنامج | Screenshots
 
-###  العربية
+### 🇸🇦 العربية
 ![Arabic UI](https://raw.githubusercontent.com/HSEnPro/hse-pro-releases/main/HSEn-ar.png)
 
-###  English
+### 🌐 English
 ![English UI](https://raw.githubusercontent.com/HSEnPro/hse-pro-releases/main/HSEn-en.png)
 
 ---
 
-## المميزات | Features
+## عن البرنامج | About
 
-- **دعم ثنائي اللغة** — عربي وإنجليزي كامل
-- **12 مرحلة اختبار اختراق** من الاستطلاع حتى كتابة التقرير
-- **أدوات متخصصة** — Wi-Fi، تشفير، كسر كلمات مرور، وأكثر
-- **أوامر جاهزة للنسخ** مع شرح مفصّل لكل خطوة
-- **تحديث تلقائي** — يتحقق من التحديثات عند كل تشغيل
-- **واجهة Hacker Terminal** — تصميم داكن احترافي
+**HackSecEnc Pro** هو تطبيق سطح مكتب متكامل لاختبار الاختراق الأخلاقي، يجمع أشهر الأدوات والأوامر الأمنية في واجهة عربية/إنجليزية احترافية وسهلة الاستخدام.
+
+**HackSecEnc Pro** is a full-featured desktop application for ethical penetration testing, combining the most popular security tools and commands in a professional Arabic/English interface.
+
+> ⚠️ **للاستخدام القانوني فقط** — تأكد من الحصول على إذن كتابي قبل اختبار أي نظام.  
+> ⚠️ **For authorized use only** — ensure you have written permission before testing any system.
 
 ---
 
-## مراحل الاختبار | Penetration Testing Phases
+## ✨ المميزات | Features
+
+- **دعم ثنائي اللغة** — عربي وإنجليزي كامل  
+  **Bilingual support** — Full Arabic and English
+  
+- **12 مرحلة اختبار اختراق** من الاستطلاع حتى كتابة التقرير  
+  **12 penetration testing phases** from recon to reporting
+  
+- **أدوات متخصصة** — Wi-Fi، تشفير، كسر كلمات مرور، وأكثر  
+  **Specialized tools** — Wi-Fi, encryption, password cracking, and more
+  
+- **أوامر جاهزة للنسخ** مع شرح مفصّل لكل خطوة  
+  **Ready-to-copy commands** with detailed explanation for every step
+  
+- **تحديث تلقائي** — يتحقق من التحديثات عند كل تشغيل  
+  **Auto update** — checks for updates on every launch
+  
+- **واجهة Hacker Terminal** — تصميم داكن احترافي  
+  **Hacker Terminal UI** — professional dark design
+
+---
+
+## 🗂️ مراحل الاختبار | Penetration Testing Phases
 
 | # | المرحلة | Phase |
 |---|---------|-------|
@@ -64,15 +78,39 @@
 
 ## 🛠️ الأدوات المدمجة | Built-in Tools
 
-- اختراق Wi-Fi
-- كسر كلمات المرور
-- التشفير وفك التشفير
-- فحص الشبكات والمنافذ
-- استغلال الخدمات (SMB, RDP, SSH, SQL)
-- التشنيف (Sniffing & MITM)
+- اختراق Wi-Fi | Wi-Fi Hacking
+- كسر كلمات المرور | Password Cracking
+- التشفير وفك التشفير | Encryption & Decryption
+- فحص الشبكات والمنافذ | Network & Port Scanning
+- استغلال الخدمات | Service Exploitation (SMB, RDP, SSH, SQL)
+- التشنيف | Sniffing & MITM
 
 ---
 
 ## 📥 التحميل | Download
 
-توجه إلى [أحدث إصدار](https://github.com/HSEnPro/hse-pro-releases/releases/latest) وحمّل ملف:
+توجه إلى [أحدث إصدار](https://github.com/HSEnPro/hse-pro-releases/releases/latest) وحمّل الملف  
+Go to the [latest release](https://github.com/HSEnPro/hse-pro-releases/releases/latest) and download:
+
+---
+
+## 🔄 التحديث التلقائي | Auto Update
+
+البرنامج يتحقق من التحديثات تلقائياً عند كل تشغيل ويُخطرك عند توفر نسخة جديدة.  
+The app automatically checks for updates on every launch and notifies you when a new version is available.
+
+---
+
+## ⚖️ إخلاء المسؤولية | Disclaimer
+
+هذا البرنامج مخصص **للتعليم واختبار الاختراق الأخلاقي المصرّح به فقط**.  
+المطور غير مسؤول عن أي استخدام غير قانوني.
+
+This tool is intended for **authorized ethical penetration testing and education only**.  
+The developer is not responsible for any illegal use.
+
+---
+
+<div align="center">
+Made with ❤️ by <a href="https://github.com/HSEnPro">HSEnPro</a>
+</div>
