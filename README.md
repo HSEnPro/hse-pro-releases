@@ -122,11 +122,11 @@ The app automatically checks for updates on every launch and notifies you when a
 
 ## إخلاء المسؤولية | Disclaimer
 
-> ⚠️ هذا البرنامج مخصص **للتعليم فقط**.  
-> المطور غير مسؤول عن أي استخدام خارج النطاق التعليمي أو على أنظمة غير مصرّح بها.
+ ⚠️ هذا البرنامج مخصص **للتعليم فقط**.  
+ المطور غير مسؤول عن أي استخدام خارج النطاق التعليمي أو على أنظمة غير مصرّح بها.
 
-> ⚠️ This tool is intended **for educational purposes only**.  
-> The developer is not responsible for any use outside the educational scope or on unauthorized systems.
+⚠️ This tool is intended **for educational purposes only**.  
+ The developer is not responsible for any use outside the educational scope or on unauthorized systems.
 
 
 
