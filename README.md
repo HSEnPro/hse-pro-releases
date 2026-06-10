@@ -1,9 +1,6 @@
-
 <div align="center">
   
 # HackSecEnc Pro 🔐
-
-<div align="center">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
@@ -17,7 +14,7 @@
 
 ---
 
-##  عن البرنامج | About
+## عن البرنامج | About
 
 **HackSecEnc Pro** هو تطبيق سطح مكتب متكامل لاختبار الاختراق الأخلاقي، يجمع أشهر الأدوات والأوامر الأمنية في واجهة عربية/إنجليزية احترافية وسهلة الاستخدام.
 
@@ -25,18 +22,28 @@
 
 ---
 
-## المميزات | Features
+## 📸 واجهة البرنامج | Screenshots
 
--  **دعم ثنائي اللغة** — عربي وإنجليزي كامل
--  **12 مرحلة اختبار اختراق** من الاستطلاع حتى كتابة التقرير
--  **أدوات متخصصة** — Wi-Fi، تشفير، كسر كلمات مرور، وأكثر
--  **أوامر جاهزة للنسخ** مع شرح مفصّل لكل خطوة
--  **تحديث تلقائي** — يتحقق من التحديثات عند كل تشغيل
--  **واجهة Hacker Terminal** — تصميم داكن احترافي
+### 🇸🇦 العربية
+![Arabic UI](https://raw.githubusercontent.com/HSEnPro/hse-pro-releases/main/HSEn-ar.png)
+
+### 🌐 English
+![English UI](https://raw.githubusercontent.com/HSEnPro/hse-pro-releases/main/HSEn-en.png)
 
 ---
 
-##  مراحل الاختبار | Penetration Testing Phases
+## المميزات | Features
+
+- **دعم ثنائي اللغة** — عربي وإنجليزي كامل
+- **12 مرحلة اختبار اختراق** من الاستطلاع حتى كتابة التقرير
+- **أدوات متخصصة** — Wi-Fi، تشفير، كسر كلمات مرور، وأكثر
+- **أوامر جاهزة للنسخ** مع شرح مفصّل لكل خطوة
+- **تحديث تلقائي** — يتحقق من التحديثات عند كل تشغيل
+- **واجهة Hacker Terminal** — تصميم داكن احترافي
+
+---
+
+## مراحل الاختبار | Penetration Testing Phases
 
 | # | المرحلة | Phase |
 |---|---------|-------|
@@ -69,23 +76,3 @@
 ## 📥 التحميل | Download
 
 توجه إلى [أحدث إصدار](https://github.com/HSEnPro/hse-pro-releases/releases/latest) وحمّل ملف:
-
-##  التحديث التلقائي | Auto Update
-
-البرنامج يتحقق من التحديثات تلقائياً عند كل تشغيل ويُخطرك عند توفر نسخة جديدة.
-
----
-
-##  إخلاء المسؤولية | Disclaimer
-
-هذا البرنامج مخصص **للتعليم واختبار الاختراق الأخلاقي المصرّح به فقط**.  
-المطور غير مسؤول عن أي استخدام غير قانوني.
-
-*This tool is intended for **authorized ethical penetration testing and education only**.  
-The developer is not responsible for any illegal use.*
-
----
-
-<div align="center">
-Made with ❤️ by <a href="https://github.com/HSEnPro">HSEnPro</a>
-</div>
