@@ -35,7 +35,7 @@
 
 ---
 
-## ✨ المميزات | Features
+##  المميزات | Features
 
 - **دعم ثنائي اللغة** — عربي وإنجليزي كامل  
   **Bilingual support** — Full Arabic and English
@@ -57,7 +57,7 @@
 
 ---
 
-## 🗂️ مراحل الاختبار | Penetration Testing Phases
+## مراحل الاختبار | Penetration Testing Phases
 
 | # | المرحلة | Phase |
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 🛠️ الأدوات المدمجة | Built-in Tools
+## الأدوات المدمجة | Built-in Tools
 
 - اختراق Wi-Fi | Wi-Fi Hacking
 - كسر كلمات المرور | Password Cracking
@@ -106,7 +106,7 @@ Go to the [latest release](https://github.com/HSEnPro/hse-pro-releases/releases/
 
 ---
 
-## 🔄 التحديث التلقائي | Auto Update
+## التحديث التلقائي | Auto Update
 
 البرنامج يتحقق من التحديثات تلقائياً عند كل تشغيل ويُخطرك عند توفر نسخة جديدة.  
 The app automatically checks for updates on every launch and notifies you when a new version is available.
