@@ -128,7 +128,7 @@ The app automatically checks for updates on every launch and notifies you when a
 > ⚠️ This tool is intended **for educational purposes only**.  
 > The developer is not responsible for any use outside the educational scope or on unauthorized systems.
 
----
+
 
 Made with ❤️ by [HSEnPro](https://github.com/HSEnPro)
 
